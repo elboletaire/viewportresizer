@@ -1,0 +1,22 @@
+{
+  "name": "viewportresizer",
+  "homepage": "https://github.com/elboletaire/viewportresizer",
+  "authors": [
+    "Òscar Casajuana <elboletaire@underave.net>"
+  ],
+  "description": "A jQuery tool to help you showing previews with different viewport sizes",
+  "main": "jquery.viewportresizer.js",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "viewport"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
